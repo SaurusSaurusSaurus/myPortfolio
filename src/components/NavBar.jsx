@@ -25,7 +25,7 @@ function NavBar() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
-  console.log("Que hay")
+  console.log("Que hay, bueno tamos fallando en algo")
 
   const onUpdateActiveLink = (value) => {
     setActiveLink(value);
