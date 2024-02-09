@@ -25,7 +25,7 @@ function NavBar() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
-  console.log("Que hay, bueno tamos fallando en algo, ahh bendito main")
+  console.log("Listo nebulosas")
 
   const onUpdateActiveLink = (value) => {
     setActiveLink(value);
