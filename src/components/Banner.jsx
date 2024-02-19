@@ -9,7 +9,7 @@ import TrackVisibility from "react-on-screen";
 const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
-  const toRotate = ["BackEnd Developer", "FrontEnd Developer"];
+  const toRotate = ["Ley Pretell "];
   const [text, setText] = useState("");
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const period = 2000;
@@ -56,11 +56,11 @@ const Banner = () => {
               <div className={isVisible ? "animate__animated animate__bounce" : ""}>
                 <span className="tagline">WELCOME TO MY PORTFOLIO</span>
                 <h1>
-                  {`Hi I'm Ley Pretell `}
+                  {`Hi I'm  `}
                   <span className="wrap">{text}</span>
                 </h1>
                 <p>
-                  Full Stack Developer
+                I'm a Junior Full Stack Developer with experience developing individual and groupal projects.
                 </p>
                 {/* <button onClick={() => console.log("connect")}>
                   Let's connect
