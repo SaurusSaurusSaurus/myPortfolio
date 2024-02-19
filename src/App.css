@@ -338,11 +338,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-weight: 700;
 }
 .skill p {
-  color: #B8B8B8;
+  color: #ffffff;
   font-size: 18px;
-  letter-spacing: 0.8px;
+  letter-spacing: 0.9px;
   line-height: 1.5em;
   margin: 14px 0 75px 0;
+  text-align: left;
 }
 .skill-slider {
   width: 80%;
@@ -365,7 +366,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 120px 0;
   z-index: -1;
   
-  background-color: black;
+  background: linear-gradient(rgb(6, 1, 48) 0%, rgb(17 25 58) 10% );
 }
 .project h2 {
   font-size: 45px;
