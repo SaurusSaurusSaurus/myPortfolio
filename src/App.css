@@ -59,7 +59,7 @@ body {
   overflow-x: hidden;
   position: relative;
   background-color: #121212 !important;
-  background-image: linear-gradient( rgba(255, 255, 255, 0.027) 50% , rgb(6, 20, 32)), url('./assets/img/bkgNew.jpg');
+  background-image: linear-gradient( rgba(255, 255, 255, 0.027) 50% , rgb(6, 20, 32)), url('./assets/img/bkg.jpg');
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
