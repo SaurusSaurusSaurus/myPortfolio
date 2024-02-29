@@ -32,9 +32,10 @@ function Skills() {
             <div className="skill-bx">
               <h2>Skills</h2>
               <p>
-                Front: React- Redux- MaterialU- Bootstrap- Pure CSS- NodeMailer<br></br>
+                Front: React- Redux- MaterialU- Bootstrap- Pure CSS- NodeMailer
+                <br></br>
                 Back: Node.js Express.js- Sequelize<br></br>
-                Base de datos: PostgreSQLbr<br></br>
+                Base de datos: PostgreSQL<br></br>
               </p>
               <Carousel
                 // autoPlay
