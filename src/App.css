@@ -59,6 +59,10 @@ body {
   overflow-x: hidden;
   position: relative;
   background-color: #121212 !important;
+  background-image: linear-gradient( rgba(255, 255, 255, 0.027) 50% , rgb(6, 20, 32)), url('./assets/img/bkgNew.jpg');
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
   color: #fff !important;
   /* font-family: sans-serif !important ; */
   line-height: 1.5;
@@ -246,7 +250,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .banner {
   margin-top: 0;
   padding: 160px 0 100px 0;
-  background-image: linear-gradient( rgba(255, 255, 255, 0.027) 50% , rgb(6, 20, 32)), url('./assets/img/bkg.jpg');
+  /* background-image: linear-gradient( rgba(255, 255, 255, 0.027) 50% , rgb(6, 20, 32)), url('./assets/img/bkg.jpg'); */
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -324,7 +328,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .skill{
   padding: 0 0 50px 0;
   position: relative;
-  background: linear-gradient(rgb(6, 1, 48) 0%, rgb(17 25 58) 10% );
+  /* background: linear-gradient(rgb(6, 1, 48) 0%, rgb(17 25 58) 10% ); */
 }
 .skill-bx {
   background: #151515;
@@ -366,7 +370,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 120px 0;
   z-index: -1;
   
-  background: linear-gradient(rgb(6, 1, 48) 0%, rgb(17 25 58) 10% );
+  /* background: linear-gradient(rgb(6, 1, 48) 0%, rgb(17 25 58) 10% ); */
 }
 .project h2 {
   font-size: 45px;
